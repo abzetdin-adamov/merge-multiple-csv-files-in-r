@@ -18,7 +18,7 @@ There are a lot solution proposals based on the same approach:
 
 There are several issue with this approach:
 - reading many CSV files into memory takes time
-- the total size resulting Data Frame is limited with 1-3 millions records depending on memory size
+- the total size of resulting Data Frame is limited with 1-5 millions records depending on available memory and number of attributes
 
-My idea was about why not to use same way used with bash command in R, since R supports the coomand ```system()``` that enables running of system commands. 
+My idea was about why not to use same way used in bash but implemented in R, since R supports the command ```system()``` that enables running of system commands. 
 For more details see attached file.
