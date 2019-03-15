@@ -1,5 +1,7 @@
 # merge multiple CSV-files in R
 
+![image](http://cdn.ilovefreesoftware.com/wp-content/uploads/2010/09/Combine-Excels.jpg)
+
 CSV format is native for many of IS when you want to export data. 
 As a result you may have some time huge number of separate CSV files.
 
