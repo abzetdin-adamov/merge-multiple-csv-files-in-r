@@ -1,4 +1,5 @@
-# merge multiple CSV-files in R
+# Merging multiple CSV-files into single one using R
+## The most efective way
 
 ![image](http://cdn.ilovefreesoftware.com/wp-content/uploads/2010/09/Combine-Excels.jpg)
 
